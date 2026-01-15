@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Brandon 👋
 
-<!--
-**bvelasq2/bvelasq2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Western University focused on designing and building practical, maintainable software systems.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 Software Engineering student with strong foundations in software design and systems
+- 🔍 Interested in full-stack development, backend engineering, and data-driven systems
+- 🧠 I care about clean architecture, readable code, and understanding *why* systems work—not just making them run
+- 🚀 Continuously improving through coursework, hands-on projects, and experimentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- **Languages:** JavaScript, Python, SQL  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js, Express  
+- **Databases:** MySQL  
+- **Tools & Platforms:** Git, GitHub, AWS  
+
+## 📌 Projects
+My pinned repositories showcase selected coursework and projects that demonstrate:
+- Practical problem-solving
+- Backend and database design
+- Full-stack application development
+
+Each project includes documentation explaining design decisions and key learnings.
+
+## 📫 Contact
+- Email: velasquezbrandon001@gmail.com
